@@ -8,7 +8,6 @@
 <br>
 <br>
 <p> Algumas tecnologias que já me envolvi  </p>
-
 <div style="display: inline_block"> <br>
 <img aling="center" alt="BABEL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img aling="center" alt="COMPOSER" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />  
@@ -22,7 +21,13 @@
 <img aling="center" alt="REACT" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img aling="center" alt="TAILWIND" heigth="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img aling="center" alt="MATERIAL-UI" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img aling="center" alt="EXPRESS" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /><img aling="center" alt="EXPRESS" heigth="40" width="50" src="https://img.icons8.com/color/344/react-native.png" />
+<img aling="center" alt="EXPRESS" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+
+          
+          
+<br>
+<br>
+<br>
 
           
           
@@ -32,8 +37,6 @@
           
           
   
-          
-
-          
+<a href="https://discord.com/channels/@PedroHenriQ"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </div>
 
