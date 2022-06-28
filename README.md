@@ -12,8 +12,7 @@
 <img aling="center" alt="BABEL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img aling="center" alt="COMPOSER" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />  
 <img aling="center" alt="CSS" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img aling="center" alt="HTML" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />     
-<img aling="center" alt="FIGMA" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img aling="center" alt="HTML" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  
 <img aling="center" alt="LARAVEL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img aling="center" alt="MYSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img aling="center" alt="NODE" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
@@ -28,6 +27,8 @@
 <br>
 <br>
 <br>
+   
+
 
           
           
